@@ -1,0 +1,4 @@
+ID	Name	Score
+1	Emma	95
+2	Liam	88
+3	Sophia	92
