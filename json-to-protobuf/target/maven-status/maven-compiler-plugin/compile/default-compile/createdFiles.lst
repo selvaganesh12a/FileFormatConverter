@@ -1,0 +1,10 @@
+com\example\json_to_protobuf\service\JsonToProtobufConverter.class
+com\example\json_to_protobuf\JsonToProtobufApplication.class
+com\example\protobuf\SampleOuterClass$Sample$Builder.class
+com\example\json_to_protobuf\service\JsonToProtobufConverter$TempSample.class
+com\example\protobuf\SampleOuterClass$Sample$1.class
+com\example\json_to_protobuf\service\ProtobufWriter.class
+com\example\json_to_protobuf\controller\ProtoController.class
+com\example\protobuf\SampleOuterClass.class
+com\example\protobuf\SampleOuterClass$SampleOrBuilder.class
+com\example\protobuf\SampleOuterClass$Sample.class
