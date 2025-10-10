@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package com.example.protobuf;
+
+option java_package = "com.example.protobuf";
+option java_outer_classname = "SampleOuterClass";
+
+message Sample {
+  string name = 1;
+  int32 age = 2;
+  string email = 3;
+}
